@@ -27,7 +27,7 @@ This repository contains a script to process the Pressure Equipment (Safety) Reg
 
 2. Run the script:
     ```bash
-    node processPDF.js
+    node processor.js
     ```
 
 3. The output CSV file (`output.csv`) will be generated in the root directory.
